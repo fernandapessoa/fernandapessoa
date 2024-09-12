@@ -10,11 +10,6 @@
 
 ## Sobre mim:
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif" alt="Image" width="250px" align="right" style="margin-left: 50px;"/>
-
-- 👩🏻‍💻 Sou Desenvolvedora Back-End, com foco em tecnologias como .NET e C#. Trabalho com bancos de dados PostgreSQL e Oracle, utilizando frameworks e bibliotecas como Dapper e Entity Framework, desenvolvendo e mantendo aplicações de REST API, ETL e Jobs. Atuo frequentemente em sustentação e operações com bancos de dados.
-    
-- 🛡️ Atualmente estou me especializando em **Cibersegurança Ofensiva**, explorando técnicas como testes de invasão, exploração de vulnerabilidades e segurança de redes.
-
-
-
+|  |  |
+|--------------------|--------------------|
+| - 👩🏻‍💻 Sou Desenvolvedora Back-End, com foco em tecnologias como .NET e C#. Trabalho com bancos de dados PostgreSQL e Oracle, utilizando frameworks e bibliotecas como Dapper e Entity Framework, desenvolvendo e mantendo aplicações de REST API, ETL e Jobs. Atuo frequentemente em sustentação e operações com bancos de dados.<br> <br> - 🛡️ Atualmente estou me especializando em **Cibersegurança Ofensiva**, explorando técnicas como testes de invasão, exploração de vulnerabilidades e segurança de redes. | <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif" alt="Image" width="250px" align="right" style="margin-left: 50px;" /> |
