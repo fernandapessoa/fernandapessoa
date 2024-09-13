@@ -5,6 +5,14 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-1C1E24?style=flat-square&logo=nuget&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00?style=flat-square&logo=vim&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C?style=flat-square&logo=c&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=flat-square&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
 
 🎯 **Desenvolvedora Back-End** | 💻 **Estudante de Cibersegurança Ofensiva**
 
