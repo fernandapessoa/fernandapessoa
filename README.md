@@ -14,7 +14,7 @@
 
 
 
-🎯 **Desenvolvedora Back-End** | 💻 **Estudante de Cibersegurança Ofensiva**
+🎯 **Desenvolvedora Back-End** 
 
 ## Sobre mim:
 
