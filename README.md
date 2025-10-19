@@ -20,4 +20,4 @@
 
 |  |  |
 |--------------------|--------------------|
-| 👩🏻‍💻 Sou Desenvolvedora Back-End, com foco em tecnologias como .NET e C#. Trabalho com bancos de dados PostgreSQL e Oracle, utilizando frameworks e bibliotecas como Dapper e Entity Framework, desenvolvendo e realizando manutenções em aplicações como REST API, ETL e Jobs. Atuo frequentemente em sustentação e operações com bancos de dados.<br> <br> | <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif" alt="Image" width="250px" align="right" style="margin-left: 50px;" /> |
+| 👩🏻‍💻 Sou Desenvolvedora Back-End, com foco em tecnologias como .NET e C#. Trabalho com bancos de dados PostgreSQL e Oracle, utilizando frameworks e bibliotecas como Dapper e Entity Framework, desenvolvendo e realizando manutenções em aplicações como REST API, ETLs, Workers e Jobs. Atuo frequentemente com desenvolvimento, manutenção e operações com bancos de dados.<br> <br> | <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/9afe0493484903.5e66500f8dea4.gif" alt="Image" width="250px" align="right" style="margin-left: 50px;" /> |
